@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6e9f184-a14c-43ea-930b-e03befd541da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/Homework5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/1234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework5/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Our team/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Our team/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pricing/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cahee/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cahee/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../claswork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../claswork/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/.idea/flex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flex/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fudi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fudi/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/grid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nike/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nike/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nikedark/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nikedark/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/styles/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/styles/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/styles/variable.scss" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#label#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="235" column="15" selection-start-line="235" selection-start-column="15" selection-end-line="235" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Travel-More.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="88" />
+    <option name="y" value="107" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Travel-More" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel-More" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nikedark" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Beetroot\Travel-More\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e9f184-a14c-43ea-930b-e03befd541da" name="Default Changelist" comment="" />
+      <created>1558112334823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558112334823</updated>
+      <workItem from="1558112336052" duration="1770000" />
+      <workItem from="1558114548758" duration="15869000" />
+      <workItem from="1558163550588" duration="7558000" />
+      <workItem from="1558171248125" duration="5683000" />
+      <workItem from="1558263413020" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31666000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="88" y="107" width="1400" height="820" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Aleo-Font/Desktop OTF/_DS_Store" />
+    <entry file="file://$PROJECT_DIR$/image/WorksIcon3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="235" column="15" selection-start-line="235" selection-start-column="15" selection-end-line="235" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#label#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
